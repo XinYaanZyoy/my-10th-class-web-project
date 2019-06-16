@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> bgfox </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smfox.png"</img>
+<h1 align="left"><a href="my favorites.html"><img src="back red.jpg" border="00" height="50"></a></h1>
+</body>
+</html>

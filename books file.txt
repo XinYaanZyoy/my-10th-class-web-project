@@ -1,0 +1,36 @@
+<html>
+<head>
+<title> books </title>
+</head>
+<body bgcolor="pink">
+<body text="purple">
+<body alink="white" vlink="purple">
+<hr/>
+<p> click on any image to see its larger version...</p>
+<hr/>
+<p> i have read thease books as i have thease books therefor i like thease books.<br>
+i can read fast as i am reading books every-day. </p></br>
+<hr/>
+<h1 align="center"><a href="bgainstine & sapekshavad.html"><img src="smainstine & sapekshavad.jpg" border="10" height="180"></img></a>
+<a href="bggalaliyo.html"><img src="smgalaliyo.jpg" border="10" height="180"></img></a>
+<a href="bgijack newten.html"><img src="smijack newten.jpg" border="10" height="180"></img></a>
+<a href="bgknow your power.html"><img src="smknow your power.jpg" border="10" height="180"></img></a>
+<a href="bgstifen howking.html"><img src="smstifen howking.jpg" border="10" height="180"></img></a>
+<a href="bgsunita vilioms.html"><img src="smsunita vilioms.jpg" border="10" height="180"></img></a>
+<a href="bgthe laws of succsess.html"><img src="smthe laws of succsess.jpg" border="10" height="180"></img></a>
+<a href="bgthe succsess factors.html"><img src="smthe succsess factors.jpg" border="10" height="180"></img></a>
+<a href="bgthe time machine.html"><img src="smthe time machine.jpg" border="10" height="180"></img></a>
+<a href="bgamazing space.html"><img src="smamazing space.jpg" border="10" height="180"></img></a><br>
+<a href="bgvikram sarabhai.html"><img src="smvikram sarabhai.jpg" border="10" height="180"></img></a>
+<a href="bgyuri gagrin.html"><img src="smyuri gagrin.jpg" border="10" height="180"></img></a>
+<a href="bgalbert ainstine.html"><img src="smalbert ainstine.jpg" border="10" height="180"></img></a>
+<a href="bgdr. A.P..J. abdul kalam.html"><img src="smdr. A.P..J. abdul kalam.jpg" border="10" height="180"></img></a>
+<a href="bgarya-bhatt.html"><img src="smarya-bhatt.jpg" border="10" height="180"></img></a>
+<a href="bgbe possitive.html"><img src="smbe possitive.jpg" border="10" height="180"></img></a>
+<a href="bgc.v. raman.html"><img src="smc.v. raman.jpg" border="10" height="180"></img></a>
+<a href="bgcan is the word of power.html"><img src="smcan is the word of power.jpg" border="10" height="180"></img></a>
+<a href="bgcosmos.html"><img src="smcosmos.jpg" border="10" height="180"></img></a>
+<a href="bgthomus alwa edition.html"><img src="smthomus alwa edition.jpg" border="10" height="180"></img></a>
+<hr/>
+<h1 align="left"><a href="my favorites.html"><img src="back red.jpg" border="00" height="50"></img></a>
+</html>

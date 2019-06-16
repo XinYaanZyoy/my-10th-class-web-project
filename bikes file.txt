@@ -1,0 +1,43 @@
+<html>
+<head>
+<title> bikes </title>
+</head>
+<body bgcolor="yellow">
+<body text="green">
+<body alink="orange" vlink="red">
+<hr/>
+<p> click on any image to see its larger version...</p>
+<hr/>
+<h1 align="center"><a href="bgbike06.html"><img src="smbike06.jpg" border="10" height="150"></img></a>
+<a href="bgMK.html"><img src="smMK.jpg" border="10" height="150"></img></a>
+<a href="bgbikes01.html"><img src="smbikes01.jpg" border="10" height="150"></img></a>
+<a href="bgbikes02.html"><img src="smbikes02.jpg" border="10" height="150"></img></a>
+<a href="bgbikes03.html"><img src="smbikes03.jpg" border="10" height="150"></img></a>
+<a href="bgbikes04.html"><img src="smbikes04.jpg" border="10" height="150"></img></a>
+<a href="bgbikes05.html"><img src="smbikes05.jpg" border="10" height="150"></img></a>
+<a href="bgCRC F4 1000-1.html"><img src="smCRC F4 1000-1.jpg" border="10" height="150"></img></a>
+<a href="bgCRC F4 1000-2.html"><img src="smCRC F4 1000-2.jpg" border="10" height="150"></img></a>
+<a href="bgHayabusa.html"><img src="smHayabusa.jpg" border="10" height="150"></img></a>
+<a href="bgMK1.html"><img src="smMK1.jpg" border="10" height="150"></img></a>
+<a href="bgsuz4e.html"><img src="smsuz4e.jpg" border="10" height="150"></img></a>
+<a href="bgyam11h.html"><img src="smyam11h.jpg" border="10" height="150"></img></a>
+<a href="bgMK2.html"><img src="smMK2.jpg" border="10" height="150"></img></a>
+<a href="bgMK3.html"><img src="smMK3.jpg" border="10" height="150"></img></a>
+<a href="bgMK4.html"><img src="smMK4.jpg" border="10" height="150"></img></a>
+<a href="bgMONU.html"><img src="smMONU.jpg" border="10" height="150"></img></a>
+<a href="bgMONU 1.html"><img src="smMONU 1.jpg" border="10" height="150"></img></a>
+<a href="bgMONU2.html"><img src="smMONU2.jpg" border="10" height="150"></img></a>
+<a href="bgbike07.html"><img src="smbike07.jpg" border="10" height="150"></img></a>
+<a href="bgMONU3.html"><img src="smMONU3.jpg" border="10" height="150"></img></a>
+<a href="bg026.html"><img src="sm026.jpg" border="10" height="150"></img></a>
+<a href="bgShowLetter.html"><img src="smShowLetter.jpg" border="10" height="150"></img></a>
+<a href="bgsuz0a.html"><img src="smsuz0a.jpg" border="10" height="150"></img></a>
+<a href="bg2005-yam-r1-02-2.html"><img src="sm2005-yam-r1-02-2.jpg" border="10" height="150"></img></a>
+<a href="bg2006-HarleyDavidson-V-Rod-VRSCRStreetRod-A1.html"><img src="sm2006-HarleyDavidson-V-Rod-VRSCRStreetRod-A1.jpg" border="10" height="150"></img></a>
+<h1 align="center"><a href="bg398622865_5a2596c674.html"><img src="sm398622865_5a2596c674.jpg" border="10" height="150"></img></a>
+<a href="bgAPPU.html"><img src="smAPPU.jpg" border="10" height="150"></img></a>
+<a href="bgARPIT1.html"><img src="smARPIT1.jpg" border="10" height="150"></img></a>
+<h1 align="left"><a href="my favorites.html"><img src="back red.jpg" border="00" height="50"></img></a>
+</body>
+</html>
+</head>

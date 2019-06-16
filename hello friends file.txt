@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> hello friends </title>
+</head>
+<body background="Leather_23.jpg">
+<body text="white">
+<body alink="pink" vlink="yellow">
+<hr size=25 color="blue" width="30%" align="center">
+<h1 align="center"> <b>HELLO FRIENDS!</b> </h1>
+<hr size=25 color="blue" width="30%" align="center">
+<h1 align="center"><img src="Hallo_65.jpg">
+<p> <h2 align="center">Hello Friends! I am parth patel...  How Are You?<br>
+I Want to tell You that How is my Student-life.</h2><br>
+<h3 align="right">Therefore<br>
+please visit this link.</h3></br></h3>
+<h1 align="right"><a href="home page.html"><img src="Home_Gray.gif" border="00" height="50"></img></a>
+</body>
+</html>

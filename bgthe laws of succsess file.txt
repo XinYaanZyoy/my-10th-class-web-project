@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - the laws of succsess </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smthe laws of succsess.jpg"</img>
+</body>
+</html>

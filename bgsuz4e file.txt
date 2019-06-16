@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - bgsuz4e </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smsuz4e.jpg"</img>
+</body>
+</html>

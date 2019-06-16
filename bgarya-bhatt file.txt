@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - arya-bhatt </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smarya-bhatt.jpg"</img>
+</body>
+</html>

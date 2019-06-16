@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - bgShowLetter </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smShowLetter.jpg"</img>
+</body>
+</html>

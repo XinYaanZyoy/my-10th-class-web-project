@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> the big image - smkameshwar </title>
+</head>
+<body>
+<h1> our kameshwar's symball.</h1>
+<br> <br> <br>
+<img src="smkameshwar.jpg"</img>
+<h1 align="left"><a href="about my-self.html"><img src="back red.jpg" border="00" height="50"></a></h1>
+</body>
+</html>

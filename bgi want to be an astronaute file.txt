@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - bgi want to be an astronaute </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smi want to be an astronaute.png"</img>
+</body>
+</html>

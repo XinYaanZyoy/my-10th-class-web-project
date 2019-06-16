@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - thomus alwa edition </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smthomus alwa edition.jpg"</img>
+</body>
+</html>

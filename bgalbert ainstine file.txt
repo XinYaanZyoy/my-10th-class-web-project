@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - albert ainstine </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smalbert ainstine.jpg"</img>
+</body>
+</html>

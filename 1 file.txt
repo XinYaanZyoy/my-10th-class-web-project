@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> 1 </title>
+</head>
+<body>
+<body bgcolor="orange">
+<body text="blue">
+<body alink="red" vlink="blue">
+<img src="%  BAJARANG %.jpg">
+<img src="5_mukhi_Hanuman.jpg">
+<img src="05 SP POOJARA.jpg">
+<img src="067.jpg">
+<img src="166g[1].jpg">
+<img src="188.jpg">
+<img src="420 (132).jpg">
+<img src="069.jpg">
+<img src="072.jpg">
+<img src="082.jpg">
+<p>
+<h1 align="left"><a href="more photos of GOD.html"><img src="back red.jpg" border="00" height="50"></a></h1>
+<h1 align="center">page:
+<a href="1.html">1</a>
+<a href="2.html">2</a>
+<a href="3.html">3</a>
+<a href="4.html">4</a>
+<a href="5.html">5</a>
+<a href="6.html">6</a>
+<h1 align="right"><a href="2.html"><img src="next blue.png" border="00" height="50">
+</p>
+</h1>
+</body>
+</html>

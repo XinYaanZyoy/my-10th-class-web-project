@@ -1,0 +1,30 @@
+<html>
+<head>
+<title> my Favorites </title>
+</head>
+<body background="Colorful Abstract_136.jpg">
+<body text="white">
+<body alink="red" vlink="blue">
+<hr/>
+<hr size=08 color="darkpink" width="25%" align="center">
+<h1 align="center"> MY FAVORITES </h1>
+<hr size=08 color="darkpink" width="25%" align="center">
+<hr/>
+    <p><h1 align="center"><a href="books.html">BOOKS</a></h1>
+    <h1 align="center"><a href="bgSamsung S4 Balloons_88.html"><img src="smSamsung S4 Balloons_88.jpg" border="10" height="120"></img></a>
+<hr/>
+    <p><h1 align="center"><a href="videos.html">VIDEOS</a></h1>
+    <h1 align="center"><a href="bgfox.html"><img src="smfox.png" border="10" height="120">
+<hr/>
+    <p><h3 align="center"><a href="cars.html">CARS</a></h3>
+    <h1 align="center"><a href="bg(1).html"><img src="sm(1).jpg" border="10" height="120">
+<hr/>
+    <p><h3 align="center"><a href="bikes.html">BIKES</a></h3>
+    <h1 align="center"><a href="bgShowLetter6.html"><img src="smShowLetter6.jpg" border="10" height="120">
+<hr/>
+    <p><h3 align="center"><a href="songs.html">SONGS</a></h3>
+    <h1 align="center"><a href="bgGuitar_129.html"><img src="smGuitar_129.jpg" border="10" height="120"></body>
+<hr/>
+<h1 align="left"><a href="about my-self.html"><img src="back red.jpg" border="00" height="50"></img></a>
+</html>
+  

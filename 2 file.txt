@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> 2 </title>
+</head>
+<body>
+<body bgcolor="red">
+<body text="green">
+<body alink="orange" vlink="green">
+<img src="083.jpg">
+<img src="092.jpg">
+<img src="095.jpg">
+<img src="099.jpg">
+<img src="0767.jpg">
+<img src="2006lalbagcha raja.jpg">
+<img src="051.jpg">
+<img src="420 (139).jpg">
+<img src="0763.jpg">
+<img src="0764.jpg">
+<p>
+<h1 align="left"><a href="1.html"><img src="back red.jpg" border="00" height="50"></a></h1>
+<h1 align="center">page:
+<a href="1.html">1</a>
+<a href="2.html">2</a>
+<a href="3.html">3</a>
+<a href="4.html">4</a>
+<a href="5.html">5</a>
+<a href="6.html">6</a>
+<h1 align="right"><a href="3.html"><img src="next blue.png" border="00" height="50">
+</p>
+</h1>
+</body>
+</html>

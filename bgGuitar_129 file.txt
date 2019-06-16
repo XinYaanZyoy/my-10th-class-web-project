@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> bgGuitar_129 </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smGuitar_129.jpg"</img>
+<h1 align="left"><a href="my favorites.html"><img src="back red.jpg" border="00" height="50"></a></h1>
+</body>
+</html>

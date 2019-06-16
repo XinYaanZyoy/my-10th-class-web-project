@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - yuri gagrin </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smyuri gagrin.jpg"</img>
+</body>
+</html>

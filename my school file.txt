@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> my school </title>
+</head>
+<body>
+<hr/>
+<hr size=08 color="gray" width="30%" align="center">
+<h1 align="center">MY SCHOOL</h1>
+<hr size=08 color="gray" width="30%" align="center">
+<body background="Black Hd_49.jpg">
+<body text="white">
+<body alink="pink" vlink="yellow">
+<hr/>
+<p><h3 align="center">I am study in kameshwar shikshan sankul. 
+I like my school. many friends are in my school.<br>
+I like my school's teachers and other member.
+my school belive in SSS (sence, study, solution).<br>
+I am study in 10th/D. my class's students are
+so good. therefor i am good and clever too.<br>
+my class's time-table is very fine so please visit this
+link and look our time-table.</h3></br>
+<h3 align="center"><a href="time-table.html">our time-table</a>
+<hr/>
+<p> my school is far from my house. therefor I puted this Image map.
+please see its.
+<h3 align="center"><a href="Image map.html">click on this link to see my house to my school's Image map.</a>
+<h1 align="left"><a href="about my-self.html"><img src="back red.jpg" border="00" height="50"></img></a>
+</body>
+</html>

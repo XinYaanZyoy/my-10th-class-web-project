@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> the big image - bgCRC F4 1000-2 </title>
+</head>
+<body>
+<br> <br> <br>
+<img src="smCRC F4 1000-2.jpg"</img>
+</body>
+</html>
